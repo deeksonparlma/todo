@@ -1,0 +1,12 @@
+body{
+background-image:url("https://cdn.wallpapersafari.com/42/3/UuSbC0.png");
+height:600px;
+}
+label,p{
+
+color:white;
+}
+.tasks{
+ background-color:#B4B4B4;
+ width:400px;
+}
