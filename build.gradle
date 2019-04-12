@@ -3,7 +3,7 @@ apply plugin: 'application'
 
 archivesBaseName = "ToDo"
 version = '1.0'
-applicationName = "to-do"
+applicationName = "ToDo"
 mainClassName = "App"
 
 repositories {
